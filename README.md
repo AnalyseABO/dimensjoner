@@ -1,4 +1,4 @@
-# Dimensjonstabelller
+# Dimensjonstabeller
 Støttetabeller til bruk i Power BI, EXCEL m.m.
 
 Dimensjonstabeller inneholder attributter for å kategorisere og strukturere data. Hensikten med disse attributtene er å kunne filtere, gruppere og navngi data i andre kilder (faktatabeller). For å koble en dimensjonstabell til en faktatabell er man avhengig av en felles koblingsnøkkel (f. eks. kommunenummer). Dimensjonstabeller kan også benyttes for å finne korrespondanser mellom f. eks gamle og nye kommuner.
