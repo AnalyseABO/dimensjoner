@@ -1,0 +1,909 @@
+﻿kommunenr_2024,kommunenavn_2024,Kilde,kommunenr_historiske,kommuner_alle.name
+0301,Oslo,kommunenr_1977,0301,Oslo
+1101,Eigersund,kommunenr_1977,1101,Eigersund
+1103,Stavanger,kommunenr_1977,1142,Rennesøy
+1103,Stavanger,kommunenr_1977,1103,Stavanger
+1103,Stavanger,kommunenr_1977,1141,Finnøy
+1106,Haugesund,kommunenr_1977,1106,Haugesund
+1108,Sandnes,kommunenr_2020,1108,Sandnes
+1108,Sandnes,kommunenr_1977,1129,Forsand
+1108,Sandnes,kommunenr_1977,1102,Sandnes
+1111,Sokndal,kommunenr_1977,1111,Sokndal
+1112,Lund,kommunenr_1977,1112,Lund
+1114,Bjerkreim,kommunenr_1977,1114,Bjerkreim
+1119,Hå,kommunenr_1977,1119,Hå
+1120,Klepp,kommunenr_1977,1120,Klepp
+1121,Time,kommunenr_1977,1121,Time
+1122,Gjesdal,kommunenr_1977,1122,Gjesdal
+1124,Sola,kommunenr_1977,1124,Sola
+1127,Randaberg,kommunenr_1977,1127,Randaberg
+1130,Strand,kommunenr_1977,1130,Strand
+1133,Hjelmeland,kommunenr_1977,1133,Hjelmeland
+1134,Suldal,kommunenr_1977,1134,Suldal
+1135,Sauda,kommunenr_1977,1135,Sauda
+1144,Kvitsøy,kommunenr_1977,1144,Kvitsøy
+1145,Bokn,kommunenr_1977,1145,Bokn
+1146,Tysvær,kommunenr_1977,1146,Tysvær
+1149,Karmøy,kommunenr_1977,1149,Karmøy
+1151,Utsira,kommunenr_1977,1151,Utsira
+1160,Vindafjord,kommunenr_2002,1159,Ølen
+1160,Vindafjord,kommunenr_2006,1160,Vindafjord
+1160,Vindafjord,kommunenr_1977,1214,Ølen
+1160,Vindafjord,kommunenr_1977,1154,Vindafjord
+1505,Kristiansund,kommunenr_2008,1505,Kristiansund
+1505,Kristiansund,kommunenr_1977,1503,Kristiansund
+1505,Kristiansund,kommunenr_1977,1556,Frei
+1506,Molde,kommunenr_2020,1506,Molde
+1506,Molde,kommunenr_1977,1502,Molde
+1506,Molde,kommunenr_1977,1545,Midsund
+1506,Molde,kommunenr_1977,1543,Nesset
+1508,Ålesund,kommunenr_1977,1546,Sandøy
+1508,Ålesund,kommunenr_1977,1529,Skodje
+1508,Ålesund,kommunenr_1977,1523,Ørskog
+1508,Ålesund,kommunenr_2020,1507,Ålesund
+1508,Ålesund,kommunenr_1977,1504,Ålesund
+1508,Ålesund,kommunenr_2024,1508,Ålesund
+1511,Vanylven,kommunenr_1977,1511,Vanylven
+1514,Sande,kommunenr_1977,1514,Sande
+1514,Sande,kommunenr_1977,1514,Sande (Møre og Romsdal)
+1515,Herøy (Møre og Romsdal),kommunenr_1977,1515,Herøy (Møre og Romsdal)
+1516,Ulstein,kommunenr_1977,1516,Ulstein
+1517,Hareid,kommunenr_1977,1517,Hareid
+1520,Ørsta,kommunenr_1977,1520,Ørsta
+1525,Stranda,kommunenr_1977,1525,Stranda
+1528,Sykkylven,kommunenr_1977,1528,Sykkylven
+1531,Sula,kommunenr_1977,1531,Sula
+1532,Giske,kommunenr_1977,1532,Giske
+1535,Vestnes,kommunenr_1977,1535,Vestnes
+1539,Rauma,kommunenr_1977,1539,Rauma
+1547,Aukra,kommunenr_1977,1547,Aukra
+1554,Averøy,kommunenr_1977,1554,Averøy
+1557,Gjemnes,kommunenr_1977,1557,Gjemnes
+1560,Tingvoll,kommunenr_1977,1560,Tingvoll
+1563,Sunndal,kommunenr_1977,1563,Sunndal
+1566,Surnadal,kommunenr_1977,1566,Surnadal
+1573,Smøla,kommunenr_1977,1573,Smøla
+1576,Aure,kommunenr_1977,1569,Aure
+1576,Aure,kommunenr_1977,1572,Tustna
+1576,Aure,kommunenr_2006,1576,Aure
+1577,Volda,kommunenr_1977,1444,Hornindal
+1577,Volda,kommunenr_2020,1577,Volda
+1577,Volda,kommunenr_1977,1519,Volda
+1578,Fjord,kommunenr_2020,1578,Fjord
+1578,Fjord,kommunenr_1977,1526,Stordal
+1578,Fjord,kommunenr_1977,1524,Norddal
+1579,Hustadvika,kommunenr_2020,1579,Hustadvika
+1579,Hustadvika,kommunenr_1977,1548,Fræna
+1579,Hustadvika,kommunenr_1977,1551,Eide
+1580,Haram,kommunenr_1977,1534,Haram
+1580,Haram,kommunenr_2024,1580,Haram
+1804,Bodø,kommunenr_1977,1842,Skjerstad
+1804,Bodø,kommunenr_1977,1804,Bodø
+1806,Narvik,kommunenr_2020,1806,Narvik
+1806,Narvik,kommunenr_1977,1854,Ballangen
+1806,Narvik,kommunenr_1977,1850,Tysfjord - Divtasvuodna
+1806,Narvik,kommunenr_1977,1805,Narvik
+1806,Narvik,kommunenr_1977,1850,Tysfjord
+1811,Bindal,kommunenr_1977,1811,Bindal
+1812,Sømna,kommunenr_1977,1812,Sømna
+1813,Brønnøy,kommunenr_1977,1813,Brønnøy
+1815,Vega,kommunenr_1977,1815,Vega
+1816,Vevelstad,kommunenr_1977,1816,Vevelstad
+1818,Herøy (Nordland),kommunenr_1977,1818,Herøy (Nordland)
+1820,Alstahaug,kommunenr_1977,1820,Alstahaug
+1822,Leirfjord,kommunenr_1977,1822,Leirfjord
+1824,Vefsn,kommunenr_1977,1824,Vefsn
+1825,Grane,kommunenr_1977,1825,Grane
+1826,Aarborte - Hattfjelldal,kommunenr_1977,1826,Aarborte - Hattfjelldal
+1826,Aarborte - Hattfjelldal,kommunenr_1977,1826,Hattfjelldal
+1827,Dønna,kommunenr_1977,1827,Dønna
+1828,Nesna,kommunenr_1977,1828,Nesna
+1832,Hemnes,kommunenr_1977,1832,Hemnes
+1833,Rana,kommunenr_1977,1833,Rana
+1834,Lurøy,kommunenr_1977,1834,Lurøy
+1835,Træna,kommunenr_1977,1835,Træna
+1836,Rødøy,kommunenr_1977,1836,Rødøy
+1837,Meløy,kommunenr_1977,1837,Meløy
+1838,Gildeskål,kommunenr_1977,1838,Gildeskål
+1839,Beiarn,kommunenr_1977,1839,Beiarn
+1840,Saltdal,kommunenr_1977,1840,Saltdal
+1841,Fauske - Fuossko,kommunenr_1977,1841,Fauske - Fuossko
+1841,Fauske - Fuossko,kommunenr_1977,1841,Fauske
+1845,Sørfold,kommunenr_1977,1845,Sørfold
+1848,Steigen,kommunenr_1977,1848,Steigen
+1851,Lødingen,kommunenr_1977,1851,Lødingen
+1853,Evenes,kommunenr_1977,1853,Evenes - Evená??i
+1853,Evenes,kommunenr_1977,1853,Evenes
+1856,Røst,kommunenr_1977,1856,Røst
+1857,Værøy,kommunenr_1977,1857,Værøy
+1859,Flakstad,kommunenr_1977,1859,Flakstad
+1860,Vestvågøy,kommunenr_1977,1860,Vestvågøy
+1865,Vågan,kommunenr_1977,1865,Vågan
+1866,Hadsel,kommunenr_1977,1866,Hadsel
+1867,Bø,kommunenr_1977,1867,Bø (Nordland)
+1867,Bø,kommunenr_1977,1867,Bø
+1868,Øksnes,kommunenr_1977,1868,Øksnes
+1870,Sortland - Suortá,kommunenr_1977,1870,Sortland - Suortá
+1870,Sortland - Suortá,kommunenr_1977,1870,Sortland
+1871,Andøy,kommunenr_1977,1871,Andøy
+1874,Moskenes,kommunenr_1977,1874,Moskenes
+1875,Hábmer - Hamarøy,kommunenr_1977,1849,Hábmer - Hamarøy
+1875,Hábmer - Hamarøy,kommunenr_1977,1849,Hamarøy
+1875,Hábmer - Hamarøy,kommunenr_2024,1875,Hábmer - Hamarøy
+3101,Halden,kommunenr_2024,3101,Halden
+3101,Halden,kommunenr_2020,3001,Halden
+3101,Halden,kommunenr_1977,0101,Halden
+3103,Moss,kommunenr_2020,3002,Moss
+3103,Moss,kommunenr_1977,0136,Rygge
+3103,Moss,kommunenr_1977,0104,Moss
+3103,Moss,kommunenr_2024,3103,Moss
+3105,Sarpsborg,kommunenr_2024,3105,Sarpsborg
+3105,Sarpsborg,kommunenr_1977,0114,Varteig
+3105,Sarpsborg,kommunenr_1992,0105,Sarpsborg
+3105,Sarpsborg,kommunenr_2020,3003,Sarpsborg
+3105,Sarpsborg,kommunenr_1977,0115,Skjeberg
+3105,Sarpsborg,kommunenr_1977,0102,Sarpsborg
+3105,Sarpsborg,kommunenr_1977,0130,Tune
+3107,Fredrikstad,kommunenr_1994,0106,Fredrikstad
+3107,Fredrikstad,kommunenr_1977,0113,Borge
+3107,Fredrikstad,kommunenr_2020,3004,Fredrikstad
+3107,Fredrikstad,kommunenr_2024,3107,Fredrikstad
+3107,Fredrikstad,kommunenr_1977,0131,Rolvsøy
+3107,Fredrikstad,kommunenr_1977,0103,Fredrikstad
+3107,Fredrikstad,kommunenr_1977,0134,Onsøy
+3107,Fredrikstad,kommunenr_1977,0133,Kråkerøy
+3110,Hvaler,kommunenr_2020,3011,Hvaler
+3110,Hvaler,kommunenr_2024,3110,Hvaler
+3110,Hvaler,kommunenr_1977,0111,Hvaler
+3112,Råde,kommunenr_1977,0135,Råde
+3112,Råde,kommunenr_2024,3112,Råde
+3112,Råde,kommunenr_2020,3017,Råde
+3114,Våler (Østfold),kommunenr_1977,0137,Våler (Østfold)
+3114,Våler (Østfold),kommunenr_2024,3114,Våler (Østfold)
+3114,Våler (Østfold),kommunenr_2020,3018,Våler (Viken)
+3116,Skiptvet,kommunenr_1977,0127,Skiptvet
+3116,Skiptvet,kommunenr_2024,3116,Skiptvet
+3116,Skiptvet,kommunenr_2020,3015,Skiptvet
+3118,Indre Østfold,kommunenr_2024,3118,Indre Østfold
+3118,Indre Østfold,kommunenr_1977,0123,Spydeberg
+3118,Indre Østfold,kommunenr_1977,0122,Trøgstad
+3118,Indre Østfold,kommunenr_1977,0124,Askim
+3118,Indre Østfold,kommunenr_2020,3014,Indre Østfold
+3118,Indre Østfold,kommunenr_1977,0125,Eidsberg
+3118,Indre Østfold,kommunenr_1977,0138,Hobøl
+3120,Rakkestad,kommunenr_1977,0128,Rakkestad
+3120,Rakkestad,kommunenr_2024,3120,Rakkestad
+3120,Rakkestad,kommunenr_2020,3016,Rakkestad
+3122,Marker,kommunenr_1977,0119,Marker
+3122,Marker,kommunenr_2024,3122,Marker
+3122,Marker,kommunenr_2020,3013,Marker
+3124,Aremark,kommunenr_1977,0118,Aremark
+3124,Aremark,kommunenr_2024,3124,Aremark
+3124,Aremark,kommunenr_2020,3012,Aremark
+3201,Bærum,kommunenr_2024,3201,Bærum
+3201,Bærum,kommunenr_2020,3024,Bærum
+3201,Bærum,kommunenr_1977,0219,Bærum
+3203,Asker,kommunenr_1977,0220,Asker
+3203,Asker,kommunenr_1977,0628,Hurum
+3203,Asker,kommunenr_1977,0627,Røyken
+3203,Asker,kommunenr_2020,3025,Asker
+3203,Asker,kommunenr_2024,3203,Asker
+3205,Lillestrøm,kommunenr_2024,3205,Lillestrøm
+3205,Lillestrøm,kommunenr_1977,0226,Sørum
+3205,Lillestrøm,kommunenr_1977,0227,Fet
+3205,Lillestrøm,kommunenr_1977,0231,Skedsmo
+3205,Lillestrøm,kommunenr_2020,3030,Lillestrøm
+3207,Nordre Follo,kommunenr_2024,3207,Nordre Follo
+3207,Nordre Follo,kommunenr_1977,0217,Oppegård
+3207,Nordre Follo,kommunenr_2020,3020,Nordre Follo
+3207,Nordre Follo,kommunenr_1977,0213,Ski
+3209,Ullensaker,kommunenr_2024,3209,Ullensaker
+3209,Ullensaker,kommunenr_1977,0235,Ullensaker
+3209,Ullensaker,kommunenr_2020,3033,Ullensaker
+3212,Nesodden,kommunenr_2024,3212,Nesodden
+3212,Nesodden,kommunenr_1977,0216,Nesodden
+3212,Nesodden,kommunenr_2020,3023,Nesodden
+3214,Frogn,kommunenr_2024,3214,Frogn
+3214,Frogn,kommunenr_2020,3022,Frogn
+3214,Frogn,kommunenr_1977,0215,Frogn
+3216,Vestby,kommunenr_2020,3019,Vestby
+3216,Vestby,kommunenr_2024,3216,Vestby
+3216,Vestby,kommunenr_1977,0211,Vestby
+3218,Ås,kommunenr_1977,0214,Ås
+3218,Ås,kommunenr_2020,3021,Ås
+3218,Ås,kommunenr_2024,3218,Ås
+3220,Enebakk,kommunenr_2024,3220,Enebakk
+3220,Enebakk,kommunenr_2020,3028,Enebakk
+3220,Enebakk,kommunenr_1977,0229,Enebakk
+3222,Lørenskog,kommunenr_2020,3029,Lørenskog
+3222,Lørenskog,kommunenr_1977,0230,Lørenskog
+3222,Lørenskog,kommunenr_2024,3222,Lørenskog
+3224,Rælingen,kommunenr_2020,3027,Rælingen
+3224,Rælingen,kommunenr_1977,0228,Rælingen
+3224,Rælingen,kommunenr_2024,3224,Rælingen
+3226,Aurskog-Høland,kommunenr_2020,3026,Aurskog-Høland
+3226,Aurskog-Høland,kommunenr_2024,3226,Aurskog-Høland
+3226,Aurskog-Høland,kommunenr_1977,0121,Rømskog
+3226,Aurskog-Høland,kommunenr_1977,0221,Aurskog-Høland
+3228,Nes,kommunenr_2020,3034,Nes
+3228,Nes,kommunenr_1977,0236,Nes (Akershus)
+3228,Nes,kommunenr_2024,3228,Nes
+3230,Gjerdrum,kommunenr_1977,0234,Gjerdrum
+3230,Gjerdrum,kommunenr_2020,3032,Gjerdrum
+3230,Gjerdrum,kommunenr_2024,3230,Gjerdrum
+3232,Nittedal,kommunenr_1977,0233,Nittedal
+3232,Nittedal,kommunenr_2024,3232,Nittedal
+3232,Nittedal,kommunenr_2020,3031,Nittedal
+3234,Lunner,kommunenr_1977,0533,Lunner
+3234,Lunner,kommunenr_2024,3234,Lunner
+3234,Lunner,kommunenr_2020,3054,Lunner
+3236,Jevnaker,kommunenr_2020,3053,Jevnaker
+3236,Jevnaker,kommunenr_1977,0532,Jevnaker
+3236,Jevnaker,kommunenr_2024,3236,Jevnaker
+3238,Nannestad,kommunenr_2024,3238,Nannestad
+3238,Nannestad,kommunenr_2020,3036,Nannestad
+3238,Nannestad,kommunenr_1977,0238,Nannestad
+3240,Eidsvoll,kommunenr_1977,0237,Eidsvoll
+3240,Eidsvoll,kommunenr_2024,3240,Eidsvoll
+3240,Eidsvoll,kommunenr_2020,3035,Eidsvoll
+3242,Hurdal,kommunenr_2024,3242,Hurdal
+3242,Hurdal,kommunenr_1977,0239,Hurdal
+3242,Hurdal,kommunenr_2020,3037,Hurdal
+3301,Drammen,kommunenr_1977,0625,Nedre Eiker
+3301,Drammen,kommunenr_1977,0602,Drammen
+3301,Drammen,kommunenr_1977,0711,Svelvik
+3301,Drammen,kommunenr_2020,3005,Drammen
+3301,Drammen,kommunenr_2024,3301,Drammen
+3303,Kongsberg,kommunenr_2024,3303,Kongsberg
+3303,Kongsberg,kommunenr_1977,0604,Kongsberg
+3303,Kongsberg,kommunenr_2020,3006,Kongsberg
+3305,Ringerike,kommunenr_2020,3007,Ringerike
+3305,Ringerike,kommunenr_2024,3305,Ringerike
+3305,Ringerike,kommunenr_1977,0605,Ringerike
+3310,Hole,kommunenr_1977,0612,Hole
+3310,Hole,kommunenr_2020,3038,Hole
+3310,Hole,kommunenr_2024,3310,Hole
+3312,Lier,kommunenr_2024,3312,Lier
+3312,Lier,kommunenr_1977,0626,Lier
+3312,Lier,kommunenr_2020,3049,Lier
+3314,Øvre Eiker,kommunenr_2020,3048,Øvre Eiker
+3314,Øvre Eiker,kommunenr_2024,3314,Øvre Eiker
+3314,Øvre Eiker,kommunenr_1977,0624,Øvre Eiker
+3316,Modum,kommunenr_2020,3047,Modum
+3316,Modum,kommunenr_1977,0623,Modum
+3316,Modum,kommunenr_2024,3316,Modum
+3318,Krødsherad,kommunenr_2024,3318,Krødsherad
+3318,Krødsherad,kommunenr_2020,3046,Krødsherad
+3318,Krødsherad,kommunenr_1977,0622,Krødsherad
+3320,Flå,kommunenr_2020,3039,Flå
+3320,Flå,kommunenr_2024,3320,Flå
+3320,Flå,kommunenr_1977,0615,Flå
+3322,Nesbyen,kommunenr_2024,3322,Nesbyen
+3322,Nesbyen,kommunenr_2020,3040,Nesbyen
+3322,Nesbyen,kommunenr_1977,0616,Nes (Buskerud)
+3324,Gol,kommunenr_2024,3324,Gol
+3324,Gol,kommunenr_2020,3041,Gol
+3324,Gol,kommunenr_1977,0617,Gol
+3326,Hemsedal,kommunenr_2024,3326,Hemsedal
+3326,Hemsedal,kommunenr_1977,0618,Hemsedal
+3326,Hemsedal,kommunenr_2020,3042,Hemsedal
+3328,Ål,kommunenr_2024,3328,Ål
+3328,Ål,kommunenr_1977,0619,Ål
+3328,Ål,kommunenr_2020,3043,Ål
+3330,Hol,kommunenr_2020,3044,Hol
+3330,Hol,kommunenr_1977,0620,Hol
+3330,Hol,kommunenr_2024,3330,Hol
+3332,Sigdal,kommunenr_1977,0621,Sigdal
+3332,Sigdal,kommunenr_2024,3332,Sigdal
+3332,Sigdal,kommunenr_2020,3045,Sigdal
+3334,Flesberg,kommunenr_2020,3050,Flesberg
+3334,Flesberg,kommunenr_1977,0631,Flesberg
+3334,Flesberg,kommunenr_2024,3334,Flesberg
+3336,Rollag,kommunenr_2024,3336,Rollag
+3336,Rollag,kommunenr_2020,3051,Rollag
+3336,Rollag,kommunenr_1977,0632,Rollag
+3338,Nore og Uvdal,kommunenr_2024,3338,Nore og Uvdal
+3338,Nore og Uvdal,kommunenr_1977,0633,Nore og Uvdal
+3338,Nore og Uvdal,kommunenr_2020,3052,Nore og Uvdal
+3401,Kongsvinger,kommunenr_1977,0402,Kongsvinger
+3401,Kongsvinger,kommunenr_2020,3401,Kongsvinger
+3403,Hamar,kommunenr_1977,0414,Vang
+3403,Hamar,kommunenr_1992,0403,Hamar
+3403,Hamar,kommunenr_2020,3403,Hamar
+3403,Hamar,kommunenr_1977,0401,Hamar
+3405,Lillehammer,kommunenr_2020,3405,Lillehammer
+3405,Lillehammer,kommunenr_1977,0501,Lillehammer
+3407,Gjøvik,kommunenr_1977,0502,Gjøvik
+3407,Gjøvik,kommunenr_2020,3407,Gjøvik
+3411,Ringsaker,kommunenr_1977,0412,Ringsaker
+3411,Ringsaker,kommunenr_2020,3411,Ringsaker
+3412,Løten,kommunenr_1977,0415,Løten
+3412,Løten,kommunenr_2020,3412,Løten
+3413,Stange,kommunenr_1977,0417,Stange
+3413,Stange,kommunenr_2020,3413,Stange
+3414,Nord-Odal,kommunenr_1977,0418,Nord-Odal
+3414,Nord-Odal,kommunenr_2020,3414,Nord-Odal
+3415,Sør-Odal,kommunenr_2020,3415,Sør-Odal
+3415,Sør-Odal,kommunenr_1977,0419,Sør-Odal
+3416,Eidskog,kommunenr_1977,0420,Eidskog
+3416,Eidskog,kommunenr_2020,3416,Eidskog
+3417,Grue,kommunenr_1977,0423,Grue
+3417,Grue,kommunenr_2020,3417,Grue
+3418,Åsnes,kommunenr_1977,0425,Åsnes
+3418,Åsnes,kommunenr_2020,3418,Åsnes
+3419,Våler (Innlandet),kommunenr_1977,0426,Våler (Hedmark)
+3419,Våler (Innlandet),kommunenr_2020,3419,Våler (Innlandet)
+3420,Elverum,kommunenr_2020,3420,Elverum
+3420,Elverum,kommunenr_1977,0427,Elverum
+3421,Trysil,kommunenr_2020,3421,Trysil
+3421,Trysil,kommunenr_1977,0428,Trysil
+3422,Åmot,kommunenr_1977,0429,Åmot
+3422,Åmot,kommunenr_2020,3422,Åmot
+3423,Stor-Elvdal,kommunenr_1977,0430,Stor-Elvdal
+3423,Stor-Elvdal,kommunenr_2020,3423,Stor-Elvdal
+3424,Rendalen,kommunenr_1977,0432,Rendalen
+3424,Rendalen,kommunenr_2020,3424,Rendalen
+3425,Engerdal,kommunenr_1977,0434,Engerdal
+3425,Engerdal,kommunenr_2020,3425,Engerdal
+3426,Tolga,kommunenr_1977,0436,Tolga
+3426,Tolga,kommunenr_2020,3426,Tolga
+3427,Tynset,kommunenr_1977,0437,Tynset
+3427,Tynset,kommunenr_2020,3427,Tynset
+3428,Alvdal,kommunenr_1977,0438,Alvdal
+3428,Alvdal,kommunenr_2020,3428,Alvdal
+3429,Folldal,kommunenr_2020,3429,Folldal
+3429,Folldal,kommunenr_1977,0439,Folldal
+3430,Os,kommunenr_1977,0441,Os (Hedmark)
+3430,Os,kommunenr_2020,3430,Os
+3431,Dovre,kommunenr_2020,3431,Dovre
+3431,Dovre,kommunenr_1977,0511,Dovre
+3432,Lesja,kommunenr_1977,0512,Lesja
+3432,Lesja,kommunenr_2020,3432,Lesja
+3433,Skjåk,kommunenr_1977,0513,Skjåk
+3433,Skjåk,kommunenr_2020,3433,Skjåk
+3434,Lom,kommunenr_2020,3434,Lom
+3434,Lom,kommunenr_1977,0514,Lom
+3435,Vågå,kommunenr_1977,0515,Vågå
+3435,Vågå,kommunenr_2020,3435,Vågå
+3436,Nord-Fron,kommunenr_1977,0516,Nord-Fron
+3436,Nord-Fron,kommunenr_2020,3436,Nord-Fron
+3437,Sel,kommunenr_1977,0517,Sel
+3437,Sel,kommunenr_2020,3437,Sel
+3438,Sør-Fron,kommunenr_1977,0519,Sør-Fron
+3438,Sør-Fron,kommunenr_2020,3438,Sør-Fron
+3439,Ringebu,kommunenr_1977,0520,Ringebu
+3439,Ringebu,kommunenr_2020,3439,Ringebu
+3440,Øyer,kommunenr_2020,3440,Øyer
+3440,Øyer,kommunenr_1977,0521,Øyer
+3441,Gausdal,kommunenr_1977,0522,Gausdal
+3441,Gausdal,kommunenr_2020,3441,Gausdal
+3442,Østre Toten,kommunenr_1977,0528,Østre Toten
+3442,Østre Toten,kommunenr_2020,3442,Østre Toten
+3443,Vestre Toten,kommunenr_1977,0529,Vestre Toten
+3443,Vestre Toten,kommunenr_2020,3443,Vestre Toten
+3446,Gran,kommunenr_2020,3446,Gran
+3446,Gran,kommunenr_1977,0534,Gran
+3447,Søndre Land,kommunenr_2020,3447,Søndre Land
+3447,Søndre Land,kommunenr_1977,0536,Søndre Land
+3448,Nordre Land,kommunenr_2020,3448,Nordre Land
+3448,Nordre Land,kommunenr_1977,0538,Nordre Land
+3449,Sør-Aurdal,kommunenr_1977,0540,Sør-Aurdal
+3449,Sør-Aurdal,kommunenr_2020,3449,Sør-Aurdal
+3450,Etnedal,kommunenr_2020,3450,Etnedal
+3450,Etnedal,kommunenr_1977,0541,Etnedal
+3451,Nord-Aurdal,kommunenr_2020,3451,Nord-Aurdal
+3451,Nord-Aurdal,kommunenr_1977,0542,Nord-Aurdal
+3452,Vestre Slidre,kommunenr_1977,0543,Vestre Slidre
+3452,Vestre Slidre,kommunenr_2020,3452,Vestre Slidre
+3453,Øystre Slidre,kommunenr_1977,0544,Øystre Slidre
+3453,Øystre Slidre,kommunenr_2020,3453,Øystre Slidre
+3454,Vang,kommunenr_1977,0545,Vang
+3454,Vang,kommunenr_2020,3454,Vang
+3901,Horten,kommunenr_1977,0717,Borre
+3901,Horten,kommunenr_2020,3801,Horten
+3901,Horten,kommunenr_2024,3901,Horten
+3901,Horten,kommunenr_1977,0703,Horten
+3901,Horten,kommunenr_1988,0701,Horten
+3901,Horten,kommunenr_1988,0701,Borre
+3903,Holmestrand,kommunenr_2024,3903,Holmestrand
+3903,Holmestrand,kommunenr_2020,3802,Holmestrand
+3903,Holmestrand,kommunenr_1977,0702,Holmestrand
+3903,Holmestrand,kommunenr_1977,0714,Hof
+3903,Holmestrand,kommunenr_1977,0713,Sande (Vestfold)
+3903,Holmestrand,kommunenr_2018,0715,Holmestrand
+3905,Tønsberg,kommunenr_1977,0716,Våle
+3905,Tønsberg,kommunenr_2020,3803,Tønsberg
+3905,Tønsberg,kommunenr_1988,0704,Tønsberg
+3905,Tønsberg,kommunenr_2024,3905,Tønsberg
+3905,Tønsberg,kommunenr_1977,0705,Tønsberg
+3905,Tønsberg,kommunenr_1977,0716,Re
+3905,Tønsberg,kommunenr_1977,0718,Ramnes
+3905,Tønsberg,kommunenr_1977,0721,Sem
+3907,Sandefjord,kommunenr_2020,3804,Sandefjord
+3907,Sandefjord,kommunenr_2024,3907,Sandefjord
+3907,Sandefjord,kommunenr_2017,0710,Sandefjord
+3907,Sandefjord,kommunenr_1977,0720,Stokke
+3907,Sandefjord,kommunenr_1977,0719,Andebu
+3907,Sandefjord,kommunenr_1977,0706,Sandefjord
+3909,Larvik,kommunenr_1977,0726,Brunlanes
+3909,Larvik,kommunenr_1977,0707,Larvik
+3909,Larvik,kommunenr_2018,0712,Larvik
+3909,Larvik,kommunenr_1977,0727,Hedrum
+3909,Larvik,kommunenr_1988,0709,Larvik
+3909,Larvik,kommunenr_1977,0725,Tjølling
+3909,Larvik,kommunenr_2024,3909,Larvik
+3909,Larvik,kommunenr_2020,3805,Larvik
+3909,Larvik,kommunenr_1977,0728,Lardal
+3909,Larvik,kommunenr_1977,0708,Stavern
+3911,Færder,kommunenr_2024,3911,Færder
+3911,Færder,kommunenr_2018,0729,Færder
+3911,Færder,kommunenr_1977,0723,Tjøme
+3911,Færder,kommunenr_2020,3811,Færder
+3911,Færder,kommunenr_1977,0722,Nøtterøy
+4001,Porsgrunn,kommunenr_1977,0805,Porsgrunn
+4001,Porsgrunn,kommunenr_2020,3806,Porsgrunn
+4001,Porsgrunn,kommunenr_2024,4001,Porsgrunn
+4003,Skien,kommunenr_2020,3807,Skien
+4003,Skien,kommunenr_2024,4003,Skien
+4003,Skien,kommunenr_1977,0806,Skien
+4005,Notodden,kommunenr_2020,3808,Notodden
+4005,Notodden,kommunenr_2024,4005,Notodden
+4005,Notodden,kommunenr_1977,0807,Notodden
+4010,Siljan,kommunenr_1977,0811,Siljan
+4010,Siljan,kommunenr_2020,3812,Siljan
+4010,Siljan,kommunenr_2024,4010,Siljan
+4012,Bamble,kommunenr_2024,4012,Bamble
+4012,Bamble,kommunenr_1977,0814,Bamble
+4012,Bamble,kommunenr_2020,3813,Bamble
+4014,Kragerø,kommunenr_2020,3814,Kragerø
+4014,Kragerø,kommunenr_2024,4014,Kragerø
+4014,Kragerø,kommunenr_1977,0815,Kragerø
+4016,Drangedal,kommunenr_1977,0817,Drangedal
+4016,Drangedal,kommunenr_2020,3815,Drangedal
+4016,Drangedal,kommunenr_2024,4016,Drangedal
+4018,Nome,kommunenr_2024,4018,Nome
+4018,Nome,kommunenr_2020,3816,Nome
+4018,Nome,kommunenr_1977,0819,Nome
+4020,Midt-Telemark,kommunenr_1977,0821,Bø (Telemark)
+4020,Midt-Telemark,kommunenr_1977,0822,Sauherad
+4020,Midt-Telemark,kommunenr_2024,4020,Midt-Telemark
+4020,Midt-Telemark,kommunenr_2020,3817,Midt-Telemark
+4022,Seljord,kommunenr_2020,3820,Seljord
+4022,Seljord,kommunenr_2024,4022,Seljord
+4022,Seljord,kommunenr_1977,0828,Seljord
+4024,Hjartdal,kommunenr_2020,3819,Hjartdal
+4024,Hjartdal,kommunenr_1977,0827,Hjartdal
+4024,Hjartdal,kommunenr_2024,4024,Hjartdal
+4026,Tinn,kommunenr_1977,0826,Tinn
+4026,Tinn,kommunenr_2020,3818,Tinn
+4026,Tinn,kommunenr_2024,4026,Tinn
+4028,Kviteseid,kommunenr_2024,4028,Kviteseid
+4028,Kviteseid,kommunenr_2020,3821,Kviteseid
+4028,Kviteseid,kommunenr_1977,0829,Kviteseid
+4030,Nissedal,kommunenr_1977,0830,Nissedal
+4030,Nissedal,kommunenr_2020,3822,Nissedal
+4030,Nissedal,kommunenr_2024,4030,Nissedal
+4032,Fyresdal,kommunenr_2020,3823,Fyresdal
+4032,Fyresdal,kommunenr_1977,0831,Fyresdal
+4032,Fyresdal,kommunenr_2024,4032,Fyresdal
+4034,Tokke,kommunenr_1977,0833,Tokke
+4034,Tokke,kommunenr_2020,3824,Tokke
+4034,Tokke,kommunenr_2024,4034,Tokke
+4036,Vinje,kommunenr_2020,3825,Vinje
+4036,Vinje,kommunenr_2024,4036,Vinje
+4036,Vinje,kommunenr_1977,0834,Vinje
+4201,Risør,kommunenr_1977,0901,Risør
+4201,Risør,kommunenr_2020,4201,Risør
+4202,Grimstad,kommunenr_1977,0904,Grimstad
+4202,Grimstad,kommunenr_2020,4202,Grimstad
+4203,Arendal,kommunenr_2020,4203,Arendal
+4203,Arendal,kommunenr_1977,0920,Øyestad
+4203,Arendal,kommunenr_1977,0922,Hisøy
+4203,Arendal,kommunenr_1992,0906,Arendal
+4203,Arendal,kommunenr_1977,0918,Moland
+4203,Arendal,kommunenr_1977,0903,Arendal
+4203,Arendal,kommunenr_1977,0921,Tromøy
+4204,Kristiansand,kommunenr_1977,1018,Søgne
+4204,Kristiansand,kommunenr_2020,4204,Kristiansand
+4204,Kristiansand,kommunenr_1977,1001,Kristiansand
+4204,Kristiansand,kommunenr_1977,1017,Songdalen
+4205,Lindesnes,kommunenr_1977,1002,Mandal
+4205,Lindesnes,kommunenr_1977,1021,Marnardal
+4205,Lindesnes,kommunenr_1977,1029,Lindesnes
+4205,Lindesnes,kommunenr_2020,4205,Lindesnes
+4206,Farsund,kommunenr_1977,1003,Farsund
+4206,Farsund,kommunenr_2020,4206,Farsund
+4207,Flekkefjord,kommunenr_1977,1004,Flekkefjord
+4207,Flekkefjord,kommunenr_2020,4207,Flekkefjord
+4211,Gjerstad,kommunenr_1977,0911,Gjerstad
+4211,Gjerstad,kommunenr_2020,4211,Gjerstad
+4212,Vegårshei,kommunenr_2020,4212,Vegårshei
+4212,Vegårshei,kommunenr_1977,0912,Vegårshei
+4213,Tvedestrand,kommunenr_1977,0914,Tvedestrand
+4213,Tvedestrand,kommunenr_2020,4213,Tvedestrand
+4214,Froland,kommunenr_2020,4214,Froland
+4214,Froland,kommunenr_1977,0919,Froland
+4215,Lillesand,kommunenr_1977,0926,Lillesand
+4215,Lillesand,kommunenr_2020,4215,Lillesand
+4216,Birkenes,kommunenr_1977,0928,Birkenes
+4216,Birkenes,kommunenr_2020,4216,Birkenes
+4217,Åmli,kommunenr_2020,4217,Åmli
+4217,Åmli,kommunenr_1977,0929,Åmli
+4218,Iveland,kommunenr_2020,4218,Iveland
+4218,Iveland,kommunenr_1977,0935,Iveland
+4219,Evje og Hornnes,kommunenr_2020,4219,Evje og Hornnes
+4219,Evje og Hornnes,kommunenr_1977,0937,Evje og Hornnes
+4220,Bygland,kommunenr_1977,0938,Bygland
+4220,Bygland,kommunenr_2020,4220,Bygland
+4221,Valle,kommunenr_2020,4221,Valle
+4221,Valle,kommunenr_1977,0940,Valle
+4222,Bykle,kommunenr_2020,4222,Bykle
+4222,Bykle,kommunenr_1977,0941,Bykle
+4223,Vennesla,kommunenr_1977,1014,Vennesla
+4223,Vennesla,kommunenr_2020,4223,Vennesla
+4224,Åseral,kommunenr_2020,4224,Åseral
+4224,Åseral,kommunenr_1977,1026,Åseral
+4225,Lyngdal,kommunenr_2020,4225,Lyngdal
+4225,Lyngdal,kommunenr_1977,1032,Lyngdal
+4225,Lyngdal,kommunenr_1977,1027,Audnedal
+4226,Hægebostad,kommunenr_2020,4226,Hægebostad
+4226,Hægebostad,kommunenr_1977,1034,Hægebostad
+4227,Kvinesdal,kommunenr_2020,4227,Kvinesdal
+4227,Kvinesdal,kommunenr_1977,1037,Kvinesdal
+4228,Sirdal,kommunenr_2020,4228,Sirdal
+4228,Sirdal,kommunenr_1977,1046,Sirdal
+4601,Bergen,kommunenr_2020,4601,Bergen
+4601,Bergen,kommunenr_1977,1201,Bergen
+4602,Kinn,kommunenr_2020,4602,Kinn
+4602,Kinn,kommunenr_1977,1439,Vågsøy
+4602,Kinn,kommunenr_1977,1401,Flora
+4611,Etne,kommunenr_2020,4611,Etne
+4611,Etne,kommunenr_1977,1211,Etne
+4612,Sveio,kommunenr_1977,1216,Sveio
+4612,Sveio,kommunenr_2020,4612,Sveio
+4613,Bømlo,kommunenr_2020,4613,Bømlo
+4613,Bømlo,kommunenr_1977,1219,Bømlo
+4614,Stord,kommunenr_2020,4614,Stord
+4614,Stord,kommunenr_1977,1221,Stord
+4615,Fitjar,kommunenr_1977,1222,Fitjar
+4615,Fitjar,kommunenr_2020,4615,Fitjar
+4616,Tysnes,kommunenr_2020,4616,Tysnes
+4616,Tysnes,kommunenr_1977,1223,Tysnes
+4617,Kvinnherad,kommunenr_2020,4617,Kvinnherad
+4617,Kvinnherad,kommunenr_1977,1224,Kvinnherad
+4618,Ullensvang,kommunenr_2020,4618,Ullensvang
+4618,Ullensvang,kommunenr_1977,1231,Ullensvang
+4618,Ullensvang,kommunenr_1977,1227,Jondal
+4618,Ullensvang,kommunenr_1977,1228,Odda
+4619,Eidfjord,kommunenr_2020,4619,Eidfjord
+4619,Eidfjord,kommunenr_1977,1232,Eidfjord
+4620,Ulvik,kommunenr_2020,4620,Ulvik
+4620,Ulvik,kommunenr_1977,1233,Ulvik
+4621,Voss,kommunenr_2020,4621,Voss
+4621,Voss,kommunenr_1977,1234,Granvin
+4621,Voss,kommunenr_1977,1235,Voss
+4622,Kvam,kommunenr_2020,4622,Kvam
+4622,Kvam,kommunenr_1977,1238,Kvam
+4623,Samnanger,kommunenr_1977,1242,Samnanger
+4623,Samnanger,kommunenr_2020,4623,Samnanger
+4624,Bjørnafjorden,kommunenr_1977,1243,Os (Hordaland)
+4624,Bjørnafjorden,kommunenr_1977,1241,Fusa
+4624,Bjørnafjorden,kommunenr_2020,4624,Bjørnafjorden
+4625,Austevoll,kommunenr_2020,4625,Austevoll
+4625,Austevoll,kommunenr_1977,1244,Austevoll
+4626,Øygarden,kommunenr_2020,4626,Øygarden
+4626,Øygarden,kommunenr_1977,1246,Fjell
+4626,Øygarden,kommunenr_1977,1245,Sund
+4626,Øygarden,kommunenr_1977,1259,Øygarden
+4627,Askøy,kommunenr_1977,1247,Askøy
+4627,Askøy,kommunenr_2020,4627,Askøy
+4628,Vaksdal,kommunenr_1977,1251,Vaksdal
+4628,Vaksdal,kommunenr_2020,4628,Vaksdal
+4629,Modalen,kommunenr_1977,1252,Modalen
+4629,Modalen,kommunenr_2020,4629,Modalen
+4630,Osterøy,kommunenr_2020,4630,Osterøy
+4630,Osterøy,kommunenr_1977,1253,Osterøy
+4631,Alver,kommunenr_2020,4631,Alver
+4631,Alver,kommunenr_1977,1256,Meland
+4631,Alver,kommunenr_1977,1260,Radøy
+4631,Alver,kommunenr_1977,1263,Lindås
+4632,Austrheim,kommunenr_1977,1264,Austrheim
+4632,Austrheim,kommunenr_2020,4632,Austrheim
+4633,Fedje,kommunenr_1977,1265,Fedje
+4633,Fedje,kommunenr_2020,4633,Fedje
+4634,Masfjorden,kommunenr_2020,4634,Masfjorden
+4634,Masfjorden,kommunenr_1977,1266,Masfjorden
+4635,Gulen,kommunenr_1977,1411,Gulen
+4635,Gulen,kommunenr_2020,4635,Gulen
+4636,Solund,kommunenr_2020,4636,Solund
+4636,Solund,kommunenr_1977,1412,Solund
+4637,Hyllestad,kommunenr_2020,4637,Hyllestad
+4637,Hyllestad,kommunenr_1977,1413,Hyllestad
+4638,Høyanger,kommunenr_2020,4638,Høyanger
+4638,Høyanger,kommunenr_1977,1416,Høyanger
+4639,Vik,kommunenr_1977,1417,Vik
+4639,Vik,kommunenr_2020,4639,Vik
+4640,Sogndal,kommunenr_1977,1418,Balestrand
+4640,Sogndal,kommunenr_2020,4640,Sogndal
+4640,Sogndal,kommunenr_1977,1419,Leikanger
+4640,Sogndal,kommunenr_1977,1420,Sogndal
+4641,Aurland,kommunenr_2020,4641,Aurland
+4641,Aurland,kommunenr_1977,1421,Aurland
+4642,Lærdal,kommunenr_1977,1422,Lærdal
+4642,Lærdal,kommunenr_2020,4642,Lærdal
+4643,Årdal,kommunenr_2020,4643,Årdal
+4643,Årdal,kommunenr_1977,1424,Årdal
+4644,Luster,kommunenr_1977,1426,Luster
+4644,Luster,kommunenr_2020,4644,Luster
+4645,Askvoll,kommunenr_1977,1428,Askvoll
+4645,Askvoll,kommunenr_2020,4645,Askvoll
+4646,Fjaler,kommunenr_2020,4646,Fjaler
+4646,Fjaler,kommunenr_1977,1429,Fjaler
+4647,Sunnfjord,kommunenr_2020,4647,Sunnfjord
+4647,Sunnfjord,kommunenr_1977,1433,Naustdal
+4647,Sunnfjord,kommunenr_1977,1432,Førde
+4647,Sunnfjord,kommunenr_1977,1431,Jølster
+4647,Sunnfjord,kommunenr_1977,1430,Gaular
+4648,Bremanger,kommunenr_1977,1438,Bremanger
+4648,Bremanger,kommunenr_2020,4648,Bremanger
+4649,Stad,kommunenr_1977,1443,Eid
+4649,Stad,kommunenr_2020,4649,Stad
+4649,Stad,kommunenr_1977,1441,Selje
+4650,Gloppen,kommunenr_2020,4650,Gloppen
+4650,Gloppen,kommunenr_1977,1445,Gloppen
+4651,Stryn,kommunenr_2020,4651,Stryn
+4651,Stryn,kommunenr_1977,1449,Stryn
+5001,Trondheim,kommunenr_2018,5001,Trondheim
+5001,Trondheim,kommunenr_2018,5001,Trondheim - Tråante
+5001,Trondheim,kommunenr_1977,1662,Klæbu
+5001,Trondheim,kommunenr_1977,1601,Trondheim
+5001,Trondheim,kommunenr_2018,5030,Klæbu
+5006,Steinkjer,kommunenr_2018,5039,Verran
+5006,Steinkjer,kommunenr_2018,5004,Steinkjer
+5006,Steinkjer,kommunenr_1977,1702,Steinkjer
+5006,Steinkjer,kommunenr_1977,1724,Verran
+5006,Steinkjer,kommunenr_2020,5006,Steinkjer
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_2018,5048,Fosnes
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_2018,5040,Namdalseid
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_1977,1748,Fosnes
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_1977,1703,Namsos
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_2018,5005,Namsos - Nåavmesjenjaelmie
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_2020,5007,Namsos - Nåavmesjenjaelmie
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_1977,1725,Namdalseid
+5007,Namsos - Nåavmesjenjaelmie,kommunenr_2018,5005,Namsos
+5014,Frøya,kommunenr_2018,5014,Frøya
+5014,Frøya,kommunenr_1977,1620,Frøya
+5020,Osen,kommunenr_1977,1633,Osen
+5020,Osen,kommunenr_2018,5020,Osen
+5021,Oppdal,kommunenr_2018,5021,Oppdal
+5021,Oppdal,kommunenr_1977,1634,Oppdal
+5022,Rennebu,kommunenr_2018,5022,Rennebu
+5022,Rennebu,kommunenr_1977,1635,Rennebu
+5025,Røros,kommunenr_2018,5025,Røros - Rosse
+5025,Røros,kommunenr_2018,5025,Røros
+5025,Røros,kommunenr_1977,1640,Røros
+5025,Røros,kommunenr_2018,5025,Røros - Rossen
+5026,Holtålen,kommunenr_2018,5026,Holtålen
+5026,Holtålen,kommunenr_1977,1644,Holtålen
+5027,Midtre Gauldal,kommunenr_1977,1648,Midtre Gauldal
+5027,Midtre Gauldal,kommunenr_2018,5027,Midtre Gauldal
+5028,Melhus,kommunenr_1977,1653,Melhus
+5028,Melhus,kommunenr_2018,5028,Melhus
+5029,Skaun,kommunenr_2018,5029,Skaun
+5029,Skaun,kommunenr_1977,1657,Skaun
+5031,Malvik,kommunenr_2018,5031,Malvik
+5031,Malvik,kommunenr_1977,1663,Malvik
+5032,Selbu,kommunenr_1977,1664,Selbu
+5032,Selbu,kommunenr_2018,5032,Selbu
+5033,Tydal,kommunenr_1977,1665,Tydal
+5033,Tydal,kommunenr_2018,5033,Tydal
+5034,Meråker,kommunenr_1977,1711,Meråker
+5034,Meråker,kommunenr_2018,5034,Meråker
+5035,Stjørdal,kommunenr_1977,1714,Stjørdal
+5035,Stjørdal,kommunenr_2018,5035,Stjørdal
+5036,Frosta,kommunenr_1977,1717,Frosta
+5036,Frosta,kommunenr_2018,5036,Frosta
+5037,Levanger,kommunenr_2018,5037,Levanger
+5037,Levanger,kommunenr_1977,1719,Levanger
+5038,Verdal,kommunenr_1977,1721,Verdal
+5038,Verdal,kommunenr_2018,5038,Verdal
+5041,Snåase - Snåsa,kommunenr_1977,1736,Snåsa
+5041,Snåase - Snåsa,kommunenr_2018,5041,Snåase - Snåsa
+5041,Snåase - Snåsa,kommunenr_1977,1736,Snåase - Snåsa
+5042,Lierne,kommunenr_2018,5042,Lierne
+5042,Lierne,kommunenr_1977,1738,Lierne
+5043,Raarvihke - Røyrvik,kommunenr_2018,5043,Raarvihke - Røyrvik
+5043,Raarvihke - Røyrvik,kommunenr_1977,1739,Røyrvik
+5043,Raarvihke - Røyrvik,kommunenr_1977,1739,Raarvihke - Røyrvik
+5044,Namsskogan,kommunenr_2018,5044,Namsskogan
+5044,Namsskogan,kommunenr_1977,1740,Namsskogan
+5045,Grong,kommunenr_2018,5045,Grong
+5045,Grong,kommunenr_1977,1742,Grong
+5046,Høylandet,kommunenr_1977,1743,Høylandet
+5046,Høylandet,kommunenr_2018,5046,Høylandet
+5047,Overhalla,kommunenr_2018,5047,Overhalla
+5047,Overhalla,kommunenr_1977,1744,Overhalla
+5049,Flatanger,kommunenr_2018,5049,Flatanger
+5049,Flatanger,kommunenr_1977,1749,Flatanger
+5052,Leka,kommunenr_1977,1755,Leka
+5052,Leka,kommunenr_2018,5052,Leka
+5053,Inderøy,kommunenr_2012,1756,Inderøy
+5053,Inderøy,kommunenr_1977,1723,Mosvik
+5053,Inderøy,kommunenr_2018,5053,Inderøy
+5053,Inderøy,kommunenr_1977,1729,Inderøy
+5054,Indre Fosen,kommunenr_1977,1624,Rissa
+5054,Indre Fosen,kommunenr_1977,1718,Leksvik
+5054,Indre Fosen,kommunenr_2018,5054,Indre Fosen
+5055,Heim,kommunenr_1977,1571,Halsa
+5055,Heim,kommunenr_1977,1612,Hemne
+5055,Heim,kommunenr_2018,5011,Hemne
+5055,Heim,kommunenr_2020,5055,Heim
+5056,Hitra,kommunenr_2024,5056,Hitra
+5056,Hitra,kommunenr_1977,1617,Hitra
+5056,Hitra,kommunenr_2018,5013,Hitra
+5057,Ørland,kommunenr_1977,1627,Bjugn
+5057,Ørland,kommunenr_2018,5017,Bjugn
+5057,Ørland,kommunenr_1977,1621,Ørland
+5057,Ørland,kommunenr_2018,5015,Ørland
+5057,Ørland,kommunenr_2020,5057,Ørland
+5058,Åfjord,kommunenr_2018,5019,Roan
+5058,Åfjord,kommunenr_2018,5018,Åfjord
+5058,Åfjord,kommunenr_2020,5058,Åfjord
+5058,Åfjord,kommunenr_1977,1632,Roan
+5058,Åfjord,kommunenr_1977,1630,Åfjord
+5059,Orkland,kommunenr_2018,5016,Agdenes
+5059,Orkland,kommunenr_2020,5059,Orkland
+5059,Orkland,kommunenr_2018,5012,Snillfjord
+5059,Orkland,kommunenr_1977,1613,Snillfjord
+5059,Orkland,kommunenr_2018,5023,Meldal
+5059,Orkland,kommunenr_2018,5024,Orkdal
+5059,Orkland,kommunenr_1977,1636,Meldal
+5059,Orkland,kommunenr_1977,1638,Orkdal
+5059,Orkland,kommunenr_1977,1622,Agdenes
+5060,Nærøysund,kommunenr_2020,5060,Nærøysund
+5060,Nærøysund,kommunenr_2018,5050,Vikna
+5060,Nærøysund,kommunenr_2018,5051,Nærøy
+5060,Nærøysund,kommunenr_1977,1751,Nærøy
+5060,Nærøysund,kommunenr_1977,1750,Vikna
+5061,Rindal,kommunenr_2019,5061,Rindal
+5061,Rindal,kommunenr_1977,1567,Rindal
+5501,Tromsø,kommunenr_2020,5401,Tromsø
+5501,Tromsø,kommunenr_2024,5501,Tromsø
+5501,Tromsø,kommunenr_1977,1902,Tromsø
+5503,Harstad - Hárstták,kommunenr_2024,5503,Harstad - Hárstták
+5503,Harstad - Hárstták,kommunenr_1977,1901,Harstad
+5503,Harstad - Hárstták,kommunenr_2020,5402,Harstad - Hárstták
+5503,Harstad - Hárstták,kommunenr_1977,1915,Bjarkøy
+5503,Harstad - Hárstták,kommunenr_2013,1903,Harstad - Hárstták
+5503,Harstad - Hárstták,kommunenr_2013,1903,Harstad
+5510,Kvæfjord,kommunenr_1977,1911,Kvæfjord
+5510,Kvæfjord,kommunenr_2020,5411,Kvæfjord
+5510,Kvæfjord,kommunenr_2024,5510,Kvæfjord
+5512,Dielddanuorri - Tjeldsund,kommunenr_2024,5512,Dielddanuorri - Tjeldsund
+5512,Dielddanuorri - Tjeldsund,kommunenr_1977,1852,Dielddanuorri - Tjeldsund
+5512,Dielddanuorri - Tjeldsund,kommunenr_1977,1913,Skånland
+5512,Dielddanuorri - Tjeldsund,kommunenr_2020,5412,Dielddanuorri - Tjeldsund
+5512,Dielddanuorri - Tjeldsund,kommunenr_1977,1852,Tjeldsund
+5514,Ibestad,kommunenr_1977,1917,Ibestad
+5514,Ibestad,kommunenr_2020,5413,Ibestad
+5514,Ibestad,kommunenr_2024,5514,Ibestad
+5516,Gratangen,kommunenr_2020,5414,Gratangen
+5516,Gratangen,kommunenr_1977,1919,Gratangen
+5516,Gratangen,kommunenr_2024,5516,Gratangen
+5518,Loabák - Lavangen,kommunenr_1977,1920,Loabák - Lavangen
+5518,Loabák - Lavangen,kommunenr_1977,1920,Lavangen
+5518,Loabák - Lavangen,kommunenr_2020,5415,Loabák - Lavangen
+5518,Loabák - Lavangen,kommunenr_2024,5518,Loabák - Lavangen
+5520,Bardu,kommunenr_2020,5416,Bardu
+5520,Bardu,kommunenr_2024,5520,Bardu
+5520,Bardu,kommunenr_1977,1922,Bardu
+5522,Salangen,kommunenr_2020,5417,Salangen
+5522,Salangen,kommunenr_2024,5522,Salangen
+5522,Salangen,kommunenr_1977,1923,Salangen
+5524,Målselv,kommunenr_1977,1924,Målselv
+5524,Målselv,kommunenr_2020,5418,Målselv
+5524,Målselv,kommunenr_2024,5524,Målselv
+5526,Sørreisa,kommunenr_1977,1925,Sørreisa
+5526,Sørreisa,kommunenr_2020,5419,Sørreisa
+5526,Sørreisa,kommunenr_2024,5526,Sørreisa
+5528,Dyrøy,kommunenr_1977,1926,Dyrøy
+5528,Dyrøy,kommunenr_2024,5528,Dyrøy
+5528,Dyrøy,kommunenr_2020,5420,Dyrøy
+5530,Senja,kommunenr_1977,1927,Tranøy
+5530,Senja,kommunenr_2020,5421,Senja
+5530,Senja,kommunenr_1977,1931,Lenvik
+5530,Senja,kommunenr_1977,1929,Berg
+5530,Senja,kommunenr_1977,1928,Torsken
+5530,Senja,kommunenr_2024,5530,Senja
+5532,Balsfjord,kommunenr_1977,1933,Balsfjord
+5532,Balsfjord,kommunenr_2024,5532,Balsfjord
+5532,Balsfjord,kommunenr_2020,5422,Balsfjord
+5534,Karlsøy,kommunenr_2024,5534,Karlsøy
+5534,Karlsøy,kommunenr_2020,5423,Karlsøy
+5534,Karlsøy,kommunenr_1977,1936,Karlsøy
+5536,Lyngen,kommunenr_1977,1938,Lyngen
+5536,Lyngen,kommunenr_2024,5536,Lyngen
+5536,Lyngen,kommunenr_2020,5424,Lyngen
+5538,Storfjord - Omasvuotna - Omasvuono,kommunenr_1977,1939,Storfjord - Omasvuotna - Omasvuono
+5538,Storfjord - Omasvuotna - Omasvuono,kommunenr_1977,1939,Storfjord
+5538,Storfjord - Omasvuotna - Omasvuono,kommunenr_2024,5538,Storfjord - Omasvuotna - Omasvuono
+5538,Storfjord - Omasvuotna - Omasvuono,kommunenr_2020,5425,Storfjord - Omasvuotna - Omasvuono
+5540,Gáivuotna - Kåfjord - Kaivuono,kommunenr_1977,1940,Kåfjord
+5540,Gáivuotna - Kåfjord - Kaivuono,kommunenr_1977,1940,Gáivuotna - Kåfjord
+5540,Gáivuotna - Kåfjord - Kaivuono,kommunenr_1977,1940,Gáivuotna - Kåfjord - Kaivuono
+5540,Gáivuotna - Kåfjord - Kaivuono,kommunenr_2020,5426,Gáivuotna - Kåfjord - Kaivuono
+5540,Gáivuotna - Kåfjord - Kaivuono,kommunenr_2024,5540,Gáivuotna - Kåfjord - Kaivuono
+5542,Skjervøy,kommunenr_2024,5542,Skjervøy
+5542,Skjervøy,kommunenr_1977,1941,Skjervøy
+5542,Skjervøy,kommunenr_2020,5427,Skjervøy
+5544,Nordreisa - Ráisa - Raisi,kommunenr_2020,5428,Nordreisa - Ráisa - Raisi
+5544,Nordreisa - Ráisa - Raisi,kommunenr_2024,5544,Nordreisa - Ráisa - Raisi
+5544,Nordreisa - Ráisa - Raisi,kommunenr_1977,1942,Nordreisa - Ráisa - Raisi
+5544,Nordreisa - Ráisa - Raisi,kommunenr_1977,1942,Nordreisa
+5546,Kvænangen,kommunenr_1977,1943,Kvænangen
+5546,Kvænangen,kommunenr_2024,5546,Kvænangen
+5546,Kvænangen,kommunenr_2020,5429,Kvænangen
+5601,Alta,kommunenr_2020,5403,Alta
+5601,Alta,kommunenr_1977,2012,Alta
+5601,Alta,kommunenr_2024,5601,Alta
+5603,Hammerfest - Hámmerfeasta,kommunenr_1977,2017,Kvalsund
+5603,Hammerfest - Hámmerfeasta,kommunenr_1992,2004,Hammerfest - Hámmerfeasta
+5603,Hammerfest - Hámmerfeasta,kommunenr_2024,5603,Hammerfest - Hámmerfeasta
+5603,Hammerfest - Hámmerfeasta,kommunenr_1977,2001,Hammerfest
+5603,Hammerfest - Hámmerfeasta,kommunenr_1992,2004,Hammerfest
+5603,Hammerfest - Hámmerfeasta,kommunenr_2020,5406,Hammerfest - Hámmerfeasta
+5603,Hammerfest - Hámmerfeasta,kommunenr_1977,2016,Sørøysund
+5605,Sør-Varanger,kommunenr_2020,5444,Sør-Varanger
+5605,Sør-Varanger,kommunenr_1977,2030,Sør-Varanger
+5605,Sør-Varanger,kommunenr_2024,5605,Sør-Varanger
+5607,Vadsø,kommunenr_1977,2003,Vadsø
+5607,Vadsø,kommunenr_2020,5405,Vadsø
+5607,Vadsø,kommunenr_2024,5607,Vadsø
+5610,Kárá?johka - Karasjok,kommunenr_2020,5437,Kárá?johka - Karasjok
+5610,Kárá?johka - Karasjok,kommunenr_1977,2021,Karasjok
+5610,Kárá?johka - Karasjok,kommunenr_1977,2021,Kárá?johka - Karasjok
+5610,Kárá?johka - Karasjok,kommunenr_2024,5610,Kárá?johka - Karasjok
+5612,Guovdageaidnu - Kautokeino,kommunenr_1977,2011,Guovdageaidnu - Kautokeino
+5612,Guovdageaidnu - Kautokeino,kommunenr_1977,2011,Kautokeino
+5612,Guovdageaidnu - Kautokeino,kommunenr_2020,5430,Guovdageaidnu - Kautokeino
+5612,Guovdageaidnu - Kautokeino,kommunenr_2024,5612,Guovdageaidnu - Kautokeino
+5614,Loppa,kommunenr_2024,5614,Loppa
+5614,Loppa,kommunenr_2020,5432,Loppa
+5614,Loppa,kommunenr_1977,2014,Loppa
+5616,Hasvik,kommunenr_1977,2015,Hasvik
+5616,Hasvik,kommunenr_2024,5616,Hasvik
+5616,Hasvik,kommunenr_2020,5433,Hasvik
+5618,Måsøy,kommunenr_2024,5618,Måsøy
+5618,Måsøy,kommunenr_1977,2018,Måsøy
+5618,Måsøy,kommunenr_2020,5434,Måsøy
+5620,Nordkapp,kommunenr_2024,5620,Nordkapp
+5620,Nordkapp,kommunenr_2020,5435,Nordkapp
+5620,Nordkapp,kommunenr_1977,2019,Nordkapp
+5622,Porsanger - Porsángu - Porsanki,kommunenr_1977,2020,Porsanger
+5622,Porsanger - Porsángu - Porsanki,kommunenr_2024,5622,Porsanger - Porsángu - Porsanki
+5622,Porsanger - Porsángu - Porsanki,kommunenr_2020,5436,Porsanger - Porsángu - Porsanki
+5622,Porsanger - Porsángu - Porsanki,kommunenr_1977,2020,Porsanger - Porsángu - Porsanki
+5624,Lebesby,kommunenr_2024,5624,Lebesby
+5624,Lebesby,kommunenr_1977,2022,Lebesby
+5624,Lebesby,kommunenr_2020,5438,Lebesby
+5626,Gamvik,kommunenr_2020,5439,Gamvik
+5626,Gamvik,kommunenr_2024,5626,Gamvik
+5626,Gamvik,kommunenr_1977,2023,Gamvik
+5628,Deatnu - Tana,kommunenr_2024,5628,Deatnu - Tana
+5628,Deatnu - Tana,kommunenr_1977,2025,Tana
+5628,Deatnu - Tana,kommunenr_1977,2025,Deatnu - Tana
+5628,Deatnu - Tana,kommunenr_2020,5441,Deatnu - Tana
+5630,Berlevåg,kommunenr_1977,2024,Berlevåg
+5630,Berlevåg,kommunenr_2020,5440,Berlevåg
+5630,Berlevåg,kommunenr_2024,5630,Berlevåg
+5632,Båtsfjord,kommunenr_2024,5632,Båtsfjord
+5632,Båtsfjord,kommunenr_1977,2028,Båtsfjord
+5632,Båtsfjord,kommunenr_2020,5443,Båtsfjord
+5634,Vardø,kommunenr_2024,5634,Vardø
+5634,Vardø,kommunenr_2020,5404,Vardø
+5634,Vardø,kommunenr_1977,2002,Vardø
+5636,Unjárga - Nesseby,kommunenr_2024,5636,Unjárga - Nesseby
+5636,Unjárga - Nesseby,kommunenr_2020,5442,Unjárga - Nesseby
+5636,Unjárga - Nesseby,kommunenr_1977,2027,Nesseby
+5636,Unjárga - Nesseby,kommunenr_1977,2027,Unjárga - Nesseby
+9999,Uoppgitt,kommunenr_1977,9999,Uoppgitt
