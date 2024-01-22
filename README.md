@@ -13,7 +13,7 @@ Typiske dimensjoner til vårt bruk vil være:
 - sykdoms- og dødsårsakskoder
 - m.m.
 
-### For å lage en kobling til tabeller i xlsx-format fra Power Query (Excel eller Power BI):
+### For å lage en kobling til tabeller i xlsx eller CSV-format fra Power Query (Excel eller Power BI):
 1) Finn tabellen på GitHub
 2) Høyreklikk på tabellnavnet og velg ***Kopier lenke***
 
