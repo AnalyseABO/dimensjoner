@@ -1,4 +1,4 @@
-﻿kommunenr_2024,kommunenavn_2024,kilde,kommunenr_historiske,kommunenavn_historiske
+kommunenr_2024,kommunenavn_2024,kilde,kommunenr_historiske,kommunenavn_historiske
 0301,Oslo,kommunenr_1977,0301,Oslo
 1101,Eigersund,kommunenr_1977,1101,Eigersund
 1103,Stavanger,kommunenr_1977,1142,Rennesøy
@@ -95,7 +95,6 @@
 1824,Vefsn,kommunenr_1977,1824,Vefsn
 1825,Grane,kommunenr_1977,1825,Grane
 1826,Aarborte - Hattfjelldal,kommunenr_1977,1826,Aarborte - Hattfjelldal
-1826,Aarborte - Hattfjelldal,kommunenr_1977,1826,Hattfjelldal
 1827,Dønna,kommunenr_1977,1827,Dønna
 1828,Nesna,kommunenr_1977,1828,Nesna
 1832,Hemnes,kommunenr_1977,1832,Hemnes
@@ -107,12 +106,10 @@
 1838,Gildeskål,kommunenr_1977,1838,Gildeskål
 1839,Beiarn,kommunenr_1977,1839,Beiarn
 1840,Saltdal,kommunenr_1977,1840,Saltdal
-1841,Fauske - Fuossko,kommunenr_1977,1841,Fauske - Fuossko
 1841,Fauske - Fuossko,kommunenr_1977,1841,Fauske
 1845,Sørfold,kommunenr_1977,1845,Sørfold
 1848,Steigen,kommunenr_1977,1848,Steigen
 1851,Lødingen,kommunenr_1977,1851,Lødingen
-1853,Evenes,kommunenr_1977,1853,Evenes - Evená??i
 1853,Evenes,kommunenr_1977,1853,Evenes
 1856,Røst,kommunenr_1977,1856,Røst
 1857,Værøy,kommunenr_1977,1857,Værøy
@@ -123,7 +120,6 @@
 1867,Bø,kommunenr_1977,1867,Bø (Nordland)
 1867,Bø,kommunenr_1977,1867,Bø
 1868,Øksnes,kommunenr_1977,1868,Øksnes
-1870,Sortland - Suortá,kommunenr_1977,1870,Sortland - Suortá
 1870,Sortland - Suortá,kommunenr_1977,1870,Sortland
 1871,Andøy,kommunenr_1977,1871,Andøy
 1874,Moskenes,kommunenr_1977,1874,Moskenes
@@ -654,7 +650,6 @@
 4651,Stryn,kommunenr_2020,4651,Stryn
 4651,Stryn,kommunenr_1977,1449,Stryn
 5001,Trondheim,kommunenr_2018,5001,Trondheim
-5001,Trondheim,kommunenr_2018,5001,Trondheim - Tråante
 5001,Trondheim,kommunenr_1977,1662,Klæbu
 5001,Trondheim,kommunenr_1977,1601,Trondheim
 5001,Trondheim,kommunenr_2018,5030,Klæbu
@@ -679,10 +674,8 @@
 5021,Oppdal,kommunenr_1977,1634,Oppdal
 5022,Rennebu,kommunenr_2018,5022,Rennebu
 5022,Rennebu,kommunenr_1977,1635,Rennebu
-
 5025,Røros,kommunenr_2018,5025,Røros
 5025,Røros,kommunenr_1977,1640,Røros
-
 5026,Holtålen,kommunenr_2018,5026,Holtålen
 5026,Holtålen,kommunenr_1977,1644,Holtålen
 5027,Midtre Gauldal,kommunenr_1977,1648,Midtre Gauldal
