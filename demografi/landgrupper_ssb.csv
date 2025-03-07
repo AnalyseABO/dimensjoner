@@ -1,0 +1,251 @@
+Land_kode;Land;Verdensregion_kode;Verdensregion;Landgruppe_kode;Landgruppe
+000;Norge;G00;Norge;G0;Norge
+101;Danmark;G11;Norden utenom Norge;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+102;Grønland;G11;Norden utenom Norge;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+103;Finland;G11;Norden utenom Norge;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+104;Færøyene;G11;Norden utenom Norge;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+105;Island;G11;Norden utenom Norge;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+106;Sverige;G11;Norden utenom Norge;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+111;Albania;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+112;Belgia;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+113;Bulgaria;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+114;Andorra;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+115;Estland;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+117;Frankrike;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+118;Gibraltar;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+119;Hellas;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+120;Belarus;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+121;Irland;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+122;Kroatia;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+123;Italia;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+124;Latvia;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+126;Malta;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+127;Nederland;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+128;Liechtenstein;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+129;Luxembourg;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+130;Monaco;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+131;Polen;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+132;Portugal;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+133;Romania;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+134;San Marino;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+136;Litauen;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+137;Spania;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+138;Moldova;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+139;Storbritannia;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+140;Russland;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+141;Sveits;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+143;Tyrkia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+144;Tyskland;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+146;Slovenia;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+148;Ukraina;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+152;Ungarn;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+153;Østerrike;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+154;Vatikanstaten;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+155;Bosnia-Hercegovina;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+156;Nord-Makedonia;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+157;Slovakia;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+158;Tsjekkia;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+159;Serbia;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+160;Montenegro;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+161;Kosovo;G21;Europa utenom EU/EFTA/Storbritannia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+162;Guernsey;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+163;Jersey;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+164;Man;G12;EU/EFTA fram til 2004 utenom Norden;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+203;Algerie;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+204;Angola;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+205;Botswana;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+209;Sankt Helena, Ascension og Tristan da Cunha;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+213;Det britiske territorium i Indiahavet;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+216;Burundi;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+220;Komorene;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+229;Benin;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+235;Ekvatorial-Guinea;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+239;Elfenbeinskysten;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+241;Eritrea;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+246;Etiopia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+249;Egypt;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+250;Djibouti;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+254;Gabon;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+256;Gambia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+260;Ghana;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+264;Guinea;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+266;Guinea-Bissau;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+270;Kamerun;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+273;Kapp Verde;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+276;Kenya;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+278;Kongo - Brazzaville;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+279;Kongo;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+281;Lesotho;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+283;Liberia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+286;Libya;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+289;Madagaskar;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+296;Malawi;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+299;Mali;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+303;Marokko;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+304;Vest-Sahara;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+306;Mauritania;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+307;Mauritius;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+308;Namibia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+309;Niger;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+313;Nigeria;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+319;Mosambik;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+322;Mayotte;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+323;Réunion;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+326;Zimbabwe;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+329;Rwanda;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+333;São Tomé og Príncipe;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+336;Senegal;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+337;Den sentralafrikanske republikk;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+338;Seychellene;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+339;Sierra Leone;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+346;Somalia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+355;Sør-Sudan;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+356;Sudan;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+357;Eswatini;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+359;Sør-Afrika;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+369;Tanzania;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+373;Tsjad;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+376;Togo;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+379;Tunisia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+386;Uganda;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+389;Zambia;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+393;Burkina Faso;G22;Afrika;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+404;Afghanistan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+406;Armenia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+407;Aserbajdsjan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+409;Bahrain;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+410;Bangladesh;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+412;Bhutan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+416;Brunei;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+420;Myanmar;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+424;Sri Lanka;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+426;De forente arabiske emirater;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+428;Filippinene;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+430;Georgia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+432;Taiwan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+436;Hongkong;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+444;India;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+448;Indonesia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+452;Irak;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+456;Iran;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+460;Israel;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+464;Japan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+476;Jordan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+478;Kambodsja;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+480;Kasakhstan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+484;Kina;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+488;Nord-Korea;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+492;Sør-Korea;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+496;Kuwait;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+500;Kypros;G13;Nye EU-land etter 2004;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+502;Kirgisistan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+504;Laos;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+508;Libanon;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+510;Macao;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+512;Malaysia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+513;Maldivene;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+516;Mongolia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+520;Oman;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+524;Palestina;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+528;Nepal;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+534;Pakistan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+537;Øst-Timor;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+540;Qatar;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+544;Saudi-Arabia;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+548;Singapore;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+550;Tadsjikistan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+552;Turkmenistan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+554;Usbekistan;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+564;Syria;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+568;Thailand;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+575;Vietnam;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+578;Jemen;G23;Asia;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+601;De amerikanske Jomfruøyer;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+602;Barbados;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+603;Antigua og Barbuda;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+604;Belize;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+605;Bahamas;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+606;Bermuda;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+608;De britiske Jomfruøyer;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+612;Canada;G14;USA og Canada;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+613;Caymanøyene;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+616;Costa Rica;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+620;Cuba;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+622;Dominica;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+624;Den dominikanske republikk;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+629;Grenada;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+631;Guadeloupe;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+632;Guatemala;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+636;Haiti;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+644;Honduras;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+648;Jamaica;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+650;Martinique;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+652;Mexico;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+654;Montserrat;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+657;Aruba;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+658;Sint Maarten (NL);G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+659;Bonaire, Sint Eustatius og Saba;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+660;Anguilla;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+661;Curaçao;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+664;Nicaragua;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+668;Panama;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+672;El Salvador;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+676;Saint-Pierre-et-Miquelon;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+677;St. Kitts og Nevis;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+678;St. Lucia;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+679;St. Vincent og Grenadinene;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+680;Trinidad og Tobago;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+681;Turks- og Caicosøyene;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+684;USA;G14;USA og Canada;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+685;Puerto Rico;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+686;Saint-Martin (FR);G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+687;Saint-Barthélemy;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+705;Argentina;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+710;Bolivia;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+715;Brasil;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+720;Guyana;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+725;Chile;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+730;Colombia;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+735;Ecuador;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+738;Sør-Georgia og Sør-Sandwichøyene;G26;Polare områder;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+740;Falklandsøyene;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+745;Fransk Guyana;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+755;Paraguay;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+760;Peru;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+765;Surinam;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+770;Uruguay;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+775;Venezuela;G24;Amerika utenom USA og Canada;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+802;Amerikansk Samoa;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+805;Australia;G15;Australia og New Zealand;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+806;Salomonøyene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+807;Christmasøya;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+808;Kokosøyene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+809;Cookøyene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+811;Fiji;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+812;Vanuatu;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+813;Tonga;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+814;Fransk Polynesia;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+815;Kiribati;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+816;Tuvalu;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+817;Guam;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+818;Nauru;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+819;USAs ytre småøyer;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+820;New Zealand;G15;Australia og New Zealand;G1;Norden utenom Norge, EU/EFTA,  Storbritannia, USA, Canada, Australia, New Zealand
+821;Niue;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+822;Norfolkøya;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+826;Mikronesiaføderasjonen;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+827;Papua Ny-Guinea;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+828;Pitcairn;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+829;Tokelau;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+830;Samoa;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+832;Wallis- og Futunaøyene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+833;Ny-Caledonia;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+835;Marshalløyene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+839;Palau;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+840;Nord-Marianene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+850;Heard- og McDonaldøyene;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+851;Clipperton;G25;Oseania utenom Australia og New Zealand;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+902;Antarktis;G26;Polare områder;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+912;De franske sørterritorier;G26;Polare områder;G2;Europa utenom EU/EFTA og Storbritannia, Afrika, Asia, Amerika utenom USA og Canada, Oseania utenom Australia og NZ, polare områder
+980;Statsløs;G91;Statsløs;G9;Statsløs og uoppgitt
+990;Uoppgitt;G92;Uoppgitt;G9;Statsløs og uoppgitt
