@@ -1,0 +1,70 @@
+﻿code;name;validFromInRequestedRange;validToInRequestedRange;newCode;newName;newShortName;changeOccurred;notes
+01;Østfold;1977-01-02;2020-01-01;01;Østfold;Østfold;1919-01-01;
+01;Østfold;1977-01-02;2020-01-01;30;Viken;Viken;2020-01-01;
+02;Akershus;1977-01-02;2020-01-01;02;Akershus;Akershus;1919-01-01;
+02;Akershus;1977-01-02;2020-01-01;30;Viken;Viken;2020-01-01;
+03;Oslo;1977-01-02;2024-02-01;03;Oslo;Oslo;1919-01-01;
+04;Hedmark;1977-01-02;2020-01-01;04;Hedmark;Hedmark;1919-01-01;
+04;Hedmark;1977-01-02;2020-01-01;34;Innlandet;Innlandet;2020-01-01;
+05;Oppland;1977-01-02;2020-01-01;05;Oppland;Oppland;1919-01-01;
+05;Oppland;1977-01-02;2020-01-01;34;Innlandet;Innlandet;2020-01-01;
+06;Buskerud;1977-01-02;2020-01-01;06;Buskerud;Buskerud;1919-01-01;
+06;Buskerud;1977-01-02;2020-01-01;30;Viken;Viken;2020-01-01;
+07;Vestfold;1977-01-02;2020-01-01;07;Vestfold;Vestfold;1919-01-01;
+07;Vestfold;1977-01-02;2020-01-01;38;Vestfold og Telemark;Vestfold og Telemark;2020-01-01;
+08;Telemark;1977-01-02;2020-01-01;08;Telemark;Telemark;1919-01-01;
+08;Telemark;1977-01-02;2020-01-01;38;Vestfold og Telemark;Vestfold og Telemark;2020-01-01;
+09;Aust-Agder;1977-01-02;2020-01-01;09;Aust-Agder;Aust-Agder;1919-01-01;
+09;Aust-Agder;1977-01-02;2020-01-01;42;Agder;Agder;2020-01-01;
+10;Vest-Agder;1977-01-02;2020-01-01;10;Vest-Agder;Vest-Agder;1919-01-01;
+10;Vest-Agder;1977-01-02;2020-01-01;42;Agder;Agder;2020-01-01;
+11;Rogaland;1977-01-02;2024-02-01;11;Rogaland;Rogaland;1919-01-01;
+12;Hordaland;1977-01-02;2020-01-01;12;Hordaland;Hordaland;1919-01-01;
+12;Hordaland;1977-01-02;2020-01-01;12;Hordaland;Hordaland;1972-01-01;
+12;Hordaland;1977-01-02;2020-01-01;46;Vestland;Vestland;2020-01-01;
+14;Sogn og Fjordane;1977-01-02;2020-01-01;14;Sogn og Fjordane;Sogn og Fjordane;1919-01-01;
+14;Sogn og Fjordane;1977-01-02;2020-01-01;46;Vestland;Vestland;2020-01-01;
+15;Møre og Romsdal;1977-01-02;2024-02-01;15;Møre;Møre;1919-01-01;
+15;Møre og Romsdal;1977-01-02;2024-02-01;15;Møre og Romsdal;Møre og Romsdal;1936-01-01;
+16;Sør-Trøndelag;1977-01-02;2018-01-01;16;Sør-Trøndelag;Sør-Trøndelag;1919-01-01;
+16;Sør-Trøndelag;1977-01-02;2018-01-01;50;Trøndelag;Trøndelag;2018-01-01;
+17;Nord-Trøndelag;1977-01-02;2018-01-01;17;Nord-Trøndelag;Nord-Trøndelag;1919-01-01;
+17;Nord-Trøndelag;1977-01-02;2018-01-01;50;Trøndelag;Trøndelag;2018-01-01;
+18;Nordland;1977-01-02;2020-01-01;18;Nordland;Nordland;1919-01-01;
+18;Nordland - Nordlánnda;2022-01-01;2024-02-01;18;Nordland;Nordland;1919-01-01;Stortingets vedtak fra 27. april 2021 innfører tospråklig navn på Nordland fylke, norsk og lulesamisk. Endringen trer i kraft straks. 
+18;Nordland ;2020-01-01;2022-01-01;18;Nordland;Nordland;1919-01-01;I 2020 avga 18 Nordland kommune 1852 Tjeldsund til 54 Troms og Finnmark, som del av ny kommune 5412 Tjeldsund. 
+19;Troms;1977-01-02;2007-01-01;19;Troms;Troms;1919-01-01;
+19;Troms;1977-01-02;2007-01-01;19;Troms - Romsa;Troms;2007-01-01;
+19;Troms;1977-01-02;2007-01-01;54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;Troms og Finnmark;2020-01-01;
+19;Troms - Romsa;2007-01-01;2020-01-01;19;Troms;Troms;1919-01-01;
+19;Troms - Romsa;2007-01-01;2020-01-01;19;Troms - Romsa;Troms;2007-01-01;
+19;Troms - Romsa;2007-01-01;2020-01-01;54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;Troms og Finnmark;2020-01-01;
+20;Finnmark;1977-01-02;2003-01-01;20;Finnmark;Finnmark;1919-01-01; 
+20;Finnmark;1977-01-02;2003-01-01;20;Finnmark - Finnmárku;Finnmark;2003-01-01; 
+20;Finnmark - Finnmárku;2003-01-01;2020-01-01;20;Finnmark;Finnmark;1919-01-01;
+20;Finnmark - Finnmárku;2003-01-01;2020-01-01;20;Finnmark - Finnmárku;Finnmark;2003-01-01;
+50;Trøndelag;2018-01-01;2020-01-01;50;Trøndelag - Trööndelage;Trøndelag;2020-01-01;Fra 1. januar 2019 skiftet 1567 Rindal fylke og fikk nytt kommunenummer 5061. Alle grunnkretser i Rindal kommune fikk dermed nytt nummer som starter på 5061 i stedet for 1567.
+50;Trøndelag - Trööndelage;2020-01-01;2024-02-01;50;Trøndelag - Trööndelage;Trøndelag;2020-01-01;
+20;Finnmark;1977-01-02;2003-01-01;54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;Troms og Finnmark;2020-01-01; 
+20;Finnmark - Finnmárku;2003-01-01;2020-01-01;54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;Troms og Finnmark;2020-01-01;
+18;Nordland;1977-01-02;2020-01-01;18;Nordland - Nordlánnda;Nordland;2022-01-01;
+18;Nordland - Nordlánnda;2022-01-01;2024-02-01;18;Nordland - Nordlánnda;Nordland;2022-01-01;Stortingets vedtak fra 27. april 2021 innfører tospråklig navn på Nordland fylke, norsk og lulesamisk. Endringen trer i kraft straks. 
+18;Nordland ;2020-01-01;2022-01-01;18;Nordland - Nordlánnda;Nordland;2022-01-01;I 2020 avga 18 Nordland kommune 1852 Tjeldsund til 54 Troms og Finnmark, som del av ny kommune 5412 Tjeldsund. 
+30;Viken;2020-01-01;2024-01-01;31;Østfold;Østfold;2024-01-01;
+30;Viken;2020-01-01;2024-01-01;32;Akershus;Akershus;2024-01-01;
+30;Viken;2020-01-01;2024-01-01;33;Buskerud;Buskerud;2024-01-01;
+38;Vestfold og Telemark;2020-01-01;2024-01-01;39;Vestfold;Vestfold;2024-01-01;
+38;Vestfold og Telemark;2020-01-01;2024-01-01;40;Telemark;Telemark;2024-01-01;
+54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;2020-01-01;2024-01-01;55;Troms - Romsa - Tromssa;Troms;2024-01-01;
+54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;2020-01-01;2024-01-01;56;Finnmark - Finnmárku - Finmarkku;Finnmark;2024-01-01;
+31;Østfold;2024-01-01;2024-02-01;31;Østfold;Østfold;;
+32;Akershus;2024-01-01;2024-02-01;32;Akershus;Akershus;;
+33;Buskerud;2024-01-01;2024-02-01;33;Buskerud;Buskerud;;
+34;Innlandet;2020-01-01;2024-02-01;34;Innlandet;Innlandet;;
+39;Vestfold;2024-01-01;2024-02-01;39;Vestfold;Vestfold;;
+40;Telemark;2024-01-01;2024-02-01;40;Telemark;Telemark;;
+42;Agder;2020-01-01;2024-02-01;42;Agder;Agder;;
+46;Vestland;2020-01-01;2024-02-01;46;Vestland;Vestland;;
+55;Troms - Romsa - Tromssa;2024-01-01;2024-02-01;55;Troms - Romsa - Tromssa;Troms;;
+56;Finnmark - Finnmárku - Finmarkku;2024-01-01;2024-02-01;56;Finnmark - Finnmárku - Finmarkku;Finnmark;;
+99;Uoppgitt;1977-01-02;2024-02-01;99;Uoppgitt;Uoppgitt;;
