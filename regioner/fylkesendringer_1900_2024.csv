@@ -7,7 +7,7 @@ code,name,validFromInRequestedRange,validToInRequestedRange,newCode,newName,chan
 02,Akershus amt,1842-01-01,1919-01-01,02,Akershus,1919-01-01,
 02,Akershus,1919-01-01,2020-01-01,30,Viken,2020-01-01,
 03,Oslo,1919-01-01,,03,Oslo,,
-03,Christiania amt,1842-01-01,1919-01-01,03,Oslo,1919-01-01,03 Christiania/Kristiania (Oslo) ble eget amtskommune/fylkekommune 1842. Før var den en del av 02 Akershus.
+03,Christiania amt,1842-01-01,1919-01-01,03,Oslo,1919-01-01,"03 Christiania/Kristiania (Oslo) ble eget amtskommune/fylkekommune 1842. Før var den en del av 02 Akershus."
 04,Hedemarkens amt,1842-01-01,1919-01-01,04,Hedmark,1919-01-01,
 05,Kristians amt,1842-01-01,1919-01-01,05,Oppland,1919-01-01,
 04,Hedmark,1919-01-01,2020-01-01,34,Innlandet,2020-01-01,
@@ -44,7 +44,7 @@ code,name,validFromInRequestedRange,validToInRequestedRange,newCode,newName,chan
 15,Møre og Romsdal,1936-01-01,,15,Møre og Romsdal,,
 18,Nordland,1919-01-01,2020-01-01,18,Nordland,,
 18,Nordland - Nordlánnda,2022-01-01,,18,Nordland - Nordlánnda,,"Stortingets vedtak fra 27. april 2021 innfører tospråklig navn på Nordland fylke, norsk og lulesamisk. Endringen trer i kraft straks. "
-18,Nordland ,2020-01-01,2022-01-01,18,Nordland - Nordlánnda,2022-01-01,I 2020 avga 18 Nordland kommune 1852 Tjeldsund til 54 Troms og Finnmark, som del av ny kommune 5412 Tjeldsund. 
+18,Nordland ,2020-01-01,2022-01-01,18,Nordland - Nordlánnda,2022-01-01,"I 2020 avga 18 Nordland kommune 1852 Tjeldsund til 54 Troms og Finnmark, som del av ny kommune 5412 Tjeldsund. "
 19,Troms - Romsa,2007-01-01,2020-01-01,54,Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku,2020-01-01,
 20,Finnmark - Finnmárku,2003-01-01,2020-01-01,54,Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku,2020-01-01,
 30,Viken,2020-01-01,2024-01-01,31,Østfold,2024-01-01,
