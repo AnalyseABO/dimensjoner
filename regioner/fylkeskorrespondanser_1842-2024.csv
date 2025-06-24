@@ -1,0 +1,81 @@
+code;name.1;validFromInRequestedRange;validToInRequestedRange;1919.newCode;1972.newCode;2018.newCode;2020.newCode;2024.newCode;2024.name
+01;Østfold;1919-01-01;2020-01-01;01;01;01;30;31;Østfold
+01;Smaalenenes amt;1842-01-01;1919-01-01;01;01;01;30;31;Østfold
+02;Akershus amt;1842-01-01;1919-01-01;02;02;02;30;31;Østfold
+02;Akershus;1919-01-01;2020-01-01;02;02;02;30;31;Østfold
+03;Oslo;1919-01-01;2024-01-01;03;03;03;03;03;Oslo
+03;Christiania amt;1842-01-01;1919-01-01;03;03;03;03;03;Oslo
+01;Østfold;1919-01-01;2020-01-01;01;01;01;30;32;Akershus
+01;Smaalenenes amt;1842-01-01;1919-01-01;01;01;01;30;32;Akershus
+02;Akershus amt;1842-01-01;1919-01-01;02;02;02;30;32;Akershus
+02;Akershus;1919-01-01;2020-01-01;02;02;02;30;32;Akershus
+01;Østfold;1919-01-01;2020-01-01;01;01;01;30;33;Buskerud
+01;Smaalenenes amt;1842-01-01;1919-01-01;01;01;01;30;33;Buskerud
+02;Akershus amt;1842-01-01;1919-01-01;02;02;02;30;33;Buskerud
+02;Akershus;1919-01-01;2020-01-01;02;02;02;30;33;Buskerud
+04;Hedemarkens amt;1842-01-01;1919-01-01;04;04;04;34;34;Innlandet
+04;Hedmark;1919-01-01;2020-01-01;04;04;04;34;34;Innlandet
+05;Oppland;1919-01-01;2020-01-01;05;05;05;34;34;Innlandet
+05;Kristians amt;1842-01-01;1919-01-01;05;05;05;34;34;Innlandet
+06;Buskerud;1919-01-01;2020-01-01;06;06;06;30;31;Østfold
+06;Buskerud;1919-01-01;2020-01-01;06;06;06;30;32;Akershus
+06;Buskerud;1919-01-01;2020-01-01;06;06;06;30;33;Buskerud
+06;Buskerud amt;1842-01-01;1919-01-01;06;06;06;30;31;Østfold
+06;Buskerud amt;1842-01-01;1919-01-01;06;06;06;30;32;Akershus
+06;Buskerud amt;1842-01-01;1919-01-01;06;06;06;30;33;Buskerud
+07;Vestfold;1919-01-01;2020-01-01;07;07;07;38;39;Vestfold
+07;Vestfold;1919-01-01;2020-01-01;07;07;07;38;40;Telemark
+07;Jarlsberg og Larviks amt;1842-01-01;1919-01-01;07;07;07;38;39;Vestfold
+07;Jarlsberg og Larviks amt;1842-01-01;1919-01-01;07;07;07;38;40;Telemark
+08;Bratsbergs amt;1842-01-01;1919-01-01;08;08;08;38;39;Vestfold
+08;Bratsbergs amt;1842-01-01;1919-01-01;08;08;08;38;40;Telemark
+08;Telemark;1919-01-01;2020-01-01;08;08;08;38;39;Vestfold
+08;Telemark;1919-01-01;2020-01-01;08;08;08;38;40;Telemark
+09;Nedenes amt;1842-01-01;1919-01-01;09;09;09;42;42;Agder
+09;Aust-Agder;1919-01-01;2020-01-01;09;09;09;42;42;Agder
+10;Lister og Mandals amt;1842-01-01;1919-01-01;10;10;10;42;42;Agder
+10;Vest-Agder;1919-01-01;2020-01-01;10;10;10;42;42;Agder
+11;Rogaland;1919-01-01;2024-01-01;11;11;11;11;11;Rogaland
+11;Stavanger amt;1842-01-01;1919-01-01;11;11;11;11;11;Rogaland
+12;Hordaland;1919-01-01;2020-01-01;12;12;12;46;46;Vestland
+12;Søndre Bergenhus amt;1842-01-01;1919-01-01;12;12;12;46;46;Vestland
+13;Bergen;1919-01-01;1972-01-01;13;12;12;46;46;Vestland
+13;Bergen amt;1842-01-01;1919-01-01;13;12;12;46;46;Vestland
+14;Nordre Bergenhus amt;1842-01-01;1919-01-01;14;14;14;46;46;Vestland
+14;Sogn og Fjordane;1919-01-01;2020-01-01;14;14;14;46;46;Vestland
+15;Romsdals amt;1842-01-01;1919-01-01;15;15;15;15;15;Møre og Romsdal
+15;Møre og Romsdal;1936-01-01;2024-01-01;15;15;15;15;15;Møre og Romsdal
+15;Møre;1919-01-01;1936-01-01;15;15;15;15;15;Møre og Romsdal
+16;Søndre Trondhjems amt;1842-01-01;1919-01-01;16;16;50;50;50;Trøndelag - Trööndelage
+16;Sør-Trøndelag;1919-01-01;2018-01-01;16;16;50;50;50;Trøndelag - Trööndelage
+17;Nord-Trøndelag;1919-01-01;2018-01-01;17;17;50;50;50;Trøndelag - Trööndelage
+17;Nordre Trondhjems amt;1842-01-01;1919-01-01;17;17;50;50;50;Trøndelag - Trööndelage
+18;Nordland;1919-01-01;2020-01-01;18;18;18;18;18;Nordland - Nordlánnda
+18;Nordland - Nordlánnda;2022-01-01;2024-01-01;18;18;18;18;18;Nordland - Nordlánnda
+18;Nordland ;2020-01-01;2022-01-01;18;18;18;18;18;Nordland - Nordlánnda
+18;Nordlands amt;1842-01-01;1919-01-01;18;18;18;18;18;Nordland - Nordlánnda
+19;Troms - Romsa;2007-01-01;2020-01-01;19;19;19;54;55;Troms - Romsa - Tromssa
+19;Troms - Romsa;2007-01-01;2020-01-01;19;19;19;54;56;Finnmark - Finnmárku - Finmarkku
+19;Tromsø amt;1867-01-01;1919-01-01;19;19;19;54;55;Troms - Romsa - Tromssa
+19;Tromsø amt;1867-01-01;1919-01-01;19;19;19;54;56;Finnmark - Finnmárku - Finmarkku
+19;Troms;1919-01-01;2007-01-01;19;19;19;54;55;Troms - Romsa - Tromssa
+19;Troms;1919-01-01;2007-01-01;19;19;19;54;56;Finnmark - Finnmárku - Finmarkku
+20;Finnmarkens amt;1842-01-01;1919-01-01;20;20;20;54;55;Troms - Romsa - Tromssa
+20;Finnmarkens amt;1842-01-01;1919-01-01;20;20;20;54;56;Finnmark - Finnmárku - Finmarkku
+20;Finnmark - Finnmárku;2003-01-01;2020-01-01;20;20;20;54;55;Troms - Romsa - Tromssa
+20;Finnmark - Finnmárku;2003-01-01;2020-01-01;20;20;20;54;56;Finnmark - Finnmárku - Finmarkku
+20;Finnmark;1919-01-01;2003-01-01;20;20;20;54;55;Troms - Romsa - Tromssa
+20;Finnmark;1919-01-01;2003-01-01;20;20;20;54;56;Finnmark - Finnmárku - Finmarkku
+30;Viken;2020-01-01;2024-01-01;30;30;30;30;31;Østfold
+30;Viken;2020-01-01;2024-01-01;30;30;30;30;32;Akershus
+30;Viken;2020-01-01;2024-01-01;30;30;30;30;33;Buskerud
+34;Innlandet;2020-01-01;2024-01-01;34;34;34;34;34;Innlandet
+38;Vestfold og Telemark;2020-01-01;2024-01-01;38;38;38;38;39;Vestfold
+38;Vestfold og Telemark;2020-01-01;2024-01-01;38;38;38;38;40;Telemark
+42;Agder;2020-01-01;2024-01-01;42;42;42;42;42;Agder
+46;Vestland;2020-01-01;2024-01-01;46;46;46;46;46;Vestland
+50;Trøndelag;2018-01-01;2020-01-01;50;50;50;50;50;Trøndelag - Trööndelage
+50;Trøndelag - Trööndelage;2020-01-01;2024-01-01;50;50;50;50;50;Trøndelag - Trööndelage
+54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;2020-01-01;2024-01-01;54;54;54;54;55;Troms - Romsa - Tromssa
+54;Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku;2020-01-01;2024-01-01;54;54;54;54;56;Finnmark - Finnmárku - Finmarkku
+99;Uoppgitt;1842-01-01;2024-01-01;99;99;99;99;99;Uoppgitt
